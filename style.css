@@ -224,6 +224,7 @@ footer p a{
     .project{
         width:90%;
     }
+    
     footer h3{
         font-size:1.2em;
     }
@@ -231,4 +232,9 @@ footer p a{
         font-size:1.7em;
     }
 
+}
+@media only screen and (max-width:450px){
+       .four{
+        margin-top:2em;
+    } 
 }
